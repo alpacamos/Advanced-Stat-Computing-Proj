@@ -26,6 +26,11 @@ Unsupervised Learning with Hierarchical Clustering: Agglomerative clustering wit
 # Conclusion:
 This project demonstrates advanced data analysis and machine learning skills, particularly in using Monte Carlo simulations, resampling techniques, classification trees, and hierarchical clustering. The project highlights a robust approach to statistical analysis and data-driven decision-making through effective model selection, data partitioning, and feature engineering.
 
-## The datasets are NOT mine and were obtained from Kaggle.
-water portability: https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability 
-adult income dataset: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+## The datasets are NOT mine and were obtained from Kaggle and UCI Machine Learning Repository
+https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability
+https://www.kaggle.com/datasets/hemanthpingali/adult-census-dataset
+https://www.kaggle.com/datasets/ryanholbrook/dl-course-data
+https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales
+https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
+https://archive.ics.uci.edu/dataset/162/forest+fires
+
